@@ -6,3 +6,13 @@ h1{
     border-radius: 50px;
     align-items: center;
 }
+.lorem{
+    color: darkgrey;
+    background-color: blue;
+}
+.koi{
+    color: brown;
+    background-color: coral;
+    border: solid 10px yellow;
+    border-radius: 2px;
+}
